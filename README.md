@@ -1,4 +1,4 @@
-#Rental Property Management System
+# Rental Property Management System<br>
 Rental Property Management System is a console-based application developed using Core Python, Object-Oriented Programming (OOP), and TXT file storage. The system helps manage rental properties, tenants, property allocations, rent collection, payments, complaints, maintenance requests, exit requests, and reports through role-based access.
 
 ## Features
