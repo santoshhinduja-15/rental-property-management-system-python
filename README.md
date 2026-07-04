@@ -227,9 +227,9 @@ Invalid Transitions:
 <img width="798" height="460" alt="image" src="https://github.com/user-attachments/assets/4e1b7387-0c33-4817-af3d-2c29e396cbf8" />
 
 19. Exit Approval
-<img width="805" height="829" alt="image" src="https://github.com/user-attachments/assets/fb9dda47-51d8-4653-802e-bc79ad104f52" />
+<img width="805" height="829" alt="image" src="https://github.com/user-attachments/assets/a1a1bba7-14aa-4d7a-9c7f-87ab256bfd92" />
 
-20. Reports
+20. Reports<br>
 i)Property Report<br>
 <img width="748" height="791" alt="image" src="https://github.com/user-attachments/assets/fdcef514-a530-438c-906f-2871ba5ec0e3" />
 
@@ -241,5 +241,3 @@ iii)Rent Report<br>
 
 iv)Income Report<br>
 <img width="737" height="750" alt="image" src="https://github.com/user-attachments/assets/fa79d4c2-f5c2-43ac-9ff7-df70133b366e" />
-
-
